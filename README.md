@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎰 Bot Observador - Roleta Brasileira (Playtech)
 
 Bot profissional para monitoramento automatizado da Roleta Brasileira no site Geralbet, com logging avançado, auto-recuperação e persistência de dados.
@@ -288,3 +289,4 @@ Se encontrar bugs ou tiver dúvidas, verifique:
 ## 📄 **LICENÇA**
 
 Este bot é apenas para fins educacionais. **Uso responsável.**
+
